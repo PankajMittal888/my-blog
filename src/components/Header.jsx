@@ -21,9 +21,9 @@ const Header = () => {
         },
          {
             name:"Signup",
-            slug:'/signip',
+            slug:'/signup',
             active:!authStatus
-        },
+        
           {
       name: "All Posts",
       slug: "/all-posts",
